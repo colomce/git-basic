@@ -1,0 +1,4 @@
+What is the difference between add, commit, and push?
+"git add..." stage the file(s) from your git working directory to the staging area which will be stored in a commit. 
+"git commit..." adds file(s) in the staging area to your local repository. 
+"git push ..." adds the file from the local repository to the remote repository (e.g Github, Gitlab)
